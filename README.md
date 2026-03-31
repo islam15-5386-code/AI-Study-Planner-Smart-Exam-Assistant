@@ -28,6 +28,9 @@ Full-stack StudyAI app using MongoDB, Express, React, and Node.js.
    npm run dev
 
 ## URLs
+
+LINK HERE https://another-wine.vercel.app/
+
 - Frontend: http://localhost:5173
 - Backend: http://localhost:5000
 - Health check: http://localhost:5000/api/health
